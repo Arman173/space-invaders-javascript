@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'GameOverFont';
+    src: url(GAME_OVER.TTF);
+}
+.head {
+    text-align: center;
+}
+h1 {
+    font-family: 'GameOverFont';
+    margin: 20px 0;
+    font-size: 60px;
+}
+.body {
+    text-align: center;
+}
+#myGame {
+    border: 5px solid #5FFF1A;
+    background: black;
+}
